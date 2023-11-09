@@ -1,2 +1,2 @@
 # Portfolio
-[click here](http://127.0.0.1:5500/index.html)
+[click here](https://karn838.github.io/Portfolio/)
